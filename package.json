@@ -1,0 +1,32 @@
+{
+  "name": "bpint",
+  "version": "1.0.0",
+  "description": "ajou university blue print server ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "crypto": "^1.0.1",
+    "ejs": "^2.6.1",
+    "ethereumjs-testrpc": "^6.0.3",
+    "express": "^4.16.4",
+    "express-session": "^1.15.6",
+    "ipp": "^2.0.1",
+    "ipp-printer": "^1.0.0",
+    "js-alert": "^1.0.4",
+    "mongoose": "^5.3.12",
+    "node-printer": "^1.0.4",
+    "printer": "git+https://github.com/tojocky/node-printer.git",
+    "sleep": "^5.2.3",
+    "web3": "^0.20.7",
+    "window": "^4.2.5",
+    "window-popup": "^1.1.0"
+  },
+  "devDependencies": {
+    "electron": "3.0.9"
+  }
+}
